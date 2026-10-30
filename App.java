@@ -1,3 +1,7 @@
+/**
+* Clase que ejecuta métodos de ABB.
+* @author Araceli Mercado
+*/
 public class App {
     public static void main(String[] args) throws Exception {
         ABB abb = new ABB(-3);
